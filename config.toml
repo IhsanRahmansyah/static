@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bangncan.netlify.app/'
 languageCode = 'en-us'
 title = 'Ihsan Rahmansyah'
 theme ='cereus'
